@@ -44,7 +44,7 @@ El pie enlaza `privacidad.html`, `terminos.html`, `contacto.html` — crear/ajus
 
 ## Notas de localización
 - Registro "tú", vocabulario neutro: "gimnasio" (no "academia"), "teléfono", "glúteos".
-- Nombres de marca conservados: BumbumFlix, Musa Elite, Bumbumzetes, Murilo.
+- Nombres de marca conservados: NalgasFlix, Musa Elite, Nalguitas, Murilo.
 - Moneda en US$ (dólar) para público hispano internacional.
 
 ## Deploy
