@@ -1,0 +1,73 @@
+{
+  "titulo": "Sello de Garantía de 30 Días — Acompañamiento Musa Elite (ES)",
+  "objetivo": "Generar un sello/escudo de garantía incondicional de 30 días para una página de ventas de coaching fitness femenino en español. Debe transmitir confianza, seguridad y que 'el riesgo es todo del vendedor'.",
+
+  "prompt_listo_para_pegar": "Un escudo/medalla vectorial moderno de garantía de 30 días para una marca de fitness femenino. Forma de escudo (shield) con borde dorado, en degradado verde (#1FB85E a #16A34A) con finos acentos en rosa (#EC4899) y detalles en dorado suave. En el centro, bien grande y legible, el número '30' y debajo la palabra 'DÍAS' con una palomita/check (✓). En arco en la parte superior del escudo, el texto 'GARANTÍA INCONDICIONAL'. Una cinta/listón curvado cruzando la parte de abajo con el texto 'SATISFACCIÓN GARANTIZADA' en rosa. Un pequeño ícono de una mujer fitness (silueta femenina flexionando el brazo) en la base, en rosa. Tipografía geométrica sans-serif limpia y en negrita, estilo Inter. Estilo flat design premium con leve profundidad y sombra suave, trazos nítidos, simétrico y centrado. Fondo 100% transparente (PNG real con canal alfa). Solo el escudo, sin escenario, sin mockup, sin manos, sin producto alrededor, sin patrón de cuadros de transparencia dibujado.",
+
+  "asunto": "Sello / escudo / emblema de garantía de 30 días (devolución de dinero)",
+
+  "estilo_visual": {
+    "estetica": "flat design premium / vector moderno, con leve profundidad y sombra suave",
+    "referencia": "escudo de garantía de e-commerce con toque femenino y enérgico de marca fitness",
+    "acabado": "trazos limpios y nítidos, simétrico, centrado, alta resolución"
+  },
+
+  "forma_y_composicion": {
+    "forma_principal": "escudo (shield) con borde dorado",
+    "elemento_central": "número '30' grande con 'DÍAS' debajo y una palomita/check",
+    "cinta": "listón curvado cruzando la base con el texto de la garantía",
+    "icono_de_apoyo": "silueta de mujer fitness flexionando el brazo, en rosa, en la base",
+    "encuadre": "sello centrado, ocupando ~85% del cuadro, con aire en los bordes",
+    "proporcion": "1:1 (cuadrado)",
+    "fondo": "transparente real (PNG con canal alfa, sin color ni cuadros dibujados)"
+  },
+
+  "paleta_de_colores": {
+    "verde_principal": "#16A34A",
+    "verde_claro_degradado": "#1FB85E",
+    "verde_oscuro_sombra": "#15803D",
+    "acento_rosa_marca": "#EC4899",
+    "detalle_dorado_suave": "#E6B800",
+    "texto_interno": "#FFFFFF",
+    "observacion": "El verde domina (confianza/garantía). El rosa entra como acento (cinta, contorno, ícono femenino), conectando con la identidad de la marca."
+  },
+
+  "tipografia": {
+    "familia": "sans-serif geométrica, limpia y bold (estilo Inter / Montserrat)",
+    "peso": "extra-bold para los números, bold para los textos en arco",
+    "observacion": "Texto corto y en mayúsculas para reducir errores de renderizado"
+  },
+
+  "textos_exactos_en_el_sello": {
+    "destacado_central": "30",
+    "debajo_del_numero": "DÍAS",
+    "arco_superior": "GARANTÍA INCONDICIONAL",
+    "cinta_inferior": "SATISFACCIÓN GARANTIZADA",
+    "atencion": "Los generadores suelen equivocar el texto y los acentos. Usa exactamente estas palabras en mayúsculas con sus tildes (DÍAS, GARANTÍA, SATISFACCIÓN). Si sale mal, genera varias y elige la correcta — o deja el sello solo con '30 DÍAS' y agrega el resto del texto después en un editor."
+  },
+
+  "evitar": [
+    "fondo sólido o escenario (debe ser transparente real)",
+    "patrón de cuadros (checkerboard) dibujado como si fuera transparencia",
+    "mockups, manos sosteniendo, productos alrededor",
+    "texto borroso, distorsionado o con errores de ortografía/acentos",
+    "exceso de elementos, ruido visual",
+    "fotorrealismo / foto de persona",
+    "marcas de agua, logos de terceros",
+    "colores fuera de la paleta (azul, morado oscuro, rojo)"
+  ],
+
+  "salida_tecnica": {
+    "formato_archivo": "PNG con transparencia real (canal alfa)",
+    "resolucion": "1024x1024 (cuadrado)",
+    "uso": "Reemplaza el sello en la sección de garantía (index.html). Guardar como assets/garantia-30-dias.png"
+  },
+
+  "nota_importante": "Si la imagen sale en RGB con el cuadriculado 'pintado' (sin transparencia real), hay que recortar el fondo después. Pide explícitamente 'fondo transparente real, PNG con canal alfa, sin cuadros de transparencia dibujados'.",
+
+  "variaciones_sugeridas": [
+    "Versión A: escudo con cinta (descrita arriba)",
+    "Versión B: medallón circular con borde serrado y '30 DÍAS' al centro",
+    "Versión C: sello minimalista solo con '30 DÍAS' + check, más limpio"
+  ]
+}
